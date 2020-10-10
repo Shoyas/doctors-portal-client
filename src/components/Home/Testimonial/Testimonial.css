@@ -1,0 +1,10 @@
+.testimonial-top{
+    background-image: url(../../../asset/images/quote.png);
+    background-repeat: no-repeat;
+    background-position: top right;
+    background-size: 150px;
+    margin-top: 80px;
+}
+.testimonial-card{
+    padding: 50px;
+}

@@ -1,0 +1,24 @@
+.footer-container{
+    background-image: url(../../../asset/images/footer-bg.png);
+    background-repeat: no-repeat;
+    background-position: cover;
+}
+.text{
+    list-style: none;
+}
+.footer-detail{
+    padding-top: 60px;
+}
+.icons{
+    font-size: 50px;
+    padding: 20px;
+    color: #11D0E0;
+}
+.contact-num{
+    color: white;
+    background-color: #11D0E0;
+    height: 50px;
+    width: 50%;
+    padding: 10px;
+    font-weight: bold;
+}

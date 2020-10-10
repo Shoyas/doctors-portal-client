@@ -1,0 +1,20 @@
+.blog-container{
+    margin-top: 50px;
+}
+.blog-news{
+    margin-top: 30px;
+    padding: 50px;
+}
+.blog-border{
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    background-image: url(../../../asset/images/quote.png);
+    background-repeat: no-repeat;
+    background-color: #14D1C8;
+    background-size: 150px;
+    background-position: center right;
+    
+}
+.blog-patient{
+    margin-top: 30px;
+}
