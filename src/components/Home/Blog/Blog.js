@@ -45,7 +45,7 @@ const Blog = () => {
                 </div>
                 <div className="col-md-8 d-flex">
                 {
-                    BlogDoctor.map(blog => <Blogs blog={blog}></Blogs>)
+                    BlogDoctor.map(blog => <Blogs blog={blog} key={blog.img}></Blogs>)
                 }
                 </div>
             </div>

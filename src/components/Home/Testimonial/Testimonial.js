@@ -35,7 +35,7 @@ const Testimonial = () => {
             </div>
             <div className="row testimonial-card">
                 {
-                    Patient.map(testimonial => <Testimonials testimonial={testimonial}></Testimonials> )
+                    Patient.map(testimonial => <Testimonials testimonial={testimonial} key={testimonial.pic}></Testimonials> )
                 }
             </div>
 
